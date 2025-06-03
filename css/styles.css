@@ -1,6 +1,3 @@
-
-
-
 body {
     margin: 0;
     font-family: 'Heebo';
@@ -152,7 +149,7 @@ section.hero img.desktop {
     width: 220px;
     max-width: 100%;
     border-radius: 92px;
-    background-color: #33c6dd;
+    background-color: #00a8c1;
     color: #FFF;
     font-size: 16px;
     font-weight: 700;
@@ -165,9 +162,9 @@ section.hero img.desktop {
 }
 
 .hero-content button:hover {
-    color: #33c6dd;
-    background-color: #FFF;
-    border: 1px solid #33c6dd;
+    color: #00a8c1;
+    background-color: #FFFFFF;
+    border: 1px solid #00a8c1;
 }
 
 
@@ -266,7 +263,7 @@ section.best-sellers .product-slider .product .product-info {
 }
 
 section.best-sellers .product-slider .product .product-info .categories {
-    color: #33c6dd;
+    color: #00a8c1;
     font-weight: normal;
     font-size: 14px;
     letter-spacing: 0.35px;
@@ -300,7 +297,7 @@ section.best-sellers .product-slider .product .product-info .price .discounted-p
 }
 
 section.best-sellers .product-slider .product .product-info .price .original-price {
-    color: #9B9B9B;
+    color: #666666;
     font-weight: normal;
     font-size: 16px;
     letter-spacing: 0.4px;
@@ -733,10 +730,6 @@ footer .copyright-text {
     footer .bottom-nav ul:last-of-type {
         margin-bottom: 0;
     }
-
-   
-
-
 }
 /* End of Design for Mobile Phones */
 
